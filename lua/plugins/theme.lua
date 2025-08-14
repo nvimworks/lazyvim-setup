@@ -1,1 +1,1 @@
-return require("themes.onedarkpro")
+return require("themes.onedark")
